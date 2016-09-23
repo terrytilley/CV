@@ -1,7 +1,7 @@
 ## Terry Tilley
 
 [About](#about) | [Skills](#skills) | [Projects](#projects) |
-[Experience](#experience) | [Education](#education) |  [Interests](#interests)
+[Experience](#experience) | [Education](#education)
 
 *I like to build stuff and make things look awesome!*
 
@@ -47,21 +47,24 @@ Through out my time at Makers Academy I was constantly learning different langua
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js
+- Ruby, Rails, Javascript
 - Rspec, Jasmine, Mocha, Zombie
 
 #### MidKent College Medway (2005 to 2006)
 
 - IT Practitioners BTEC
 
-#### Any other qualifications
-
 ## Experience
 
 **Benson & Company** (2014 to 2016)
-*IT Manager*
+*IT Manager / Frontend Developer*
+
+- Design and build any new websites.
+- Ensure all company websites where up to date and running efficiently.
+- Format schedule blog posts to be released every Monday.
+- Design and schedule all newsletters using MailChimp.
 
 **Various** (2007 to 2014)
 *Such as: cashier, restaurants and bars*
