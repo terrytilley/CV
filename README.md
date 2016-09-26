@@ -5,7 +5,7 @@
 
 *I like to build stuff and make things look awesome!*
 
-I have always dabbled with web design as a hobby. It all started when I was 14, I built an internet radio station website so that myself and a couple of friends could broadcast our "DJ'in skills" to our school friends.
+I have always dabbled with web design as a hobby. It all started when I was 14, I built an internet radio station website so that my friends and I could broadcast our "DJ'in skills" to our school friends.
 
 A few years ago I decided to take it more seriously and started doing freelance work for a media company where I would convert Photoshop designs into WordPress websites using HTML, CSS/SASS and frameworks such as Bootstrap.
 
@@ -16,7 +16,7 @@ I'm currently looking for a full stack junior developer role in a team who are a
 ## Skills
 
 #### Teamwork
-I took part in a lot of pair programming sessions at Makers Academy, I would pair with someone different every day and this required me to able to adapt to different personalities very quickly.
+I took part in a lot of pair programming sessions at Makers Academy, I would pair with someone different every day and this required me to able to adapt to different personalities very quickly. During my final project I was in a team of four, pair programming helped us get the front and back end built at the same time with minimal issues.
 
 #### Design
 While working at my previous job ([Benson & Company](http://www.bensoncompany.co.uk)) I was tasked with creating landing pages for the company services based on the company branding, such as [Full Access](http://full-access.co.uk/) and [Management Courses](http://www.managementcourseslondon.com/).
