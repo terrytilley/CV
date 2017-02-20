@@ -1,7 +1,9 @@
-## Terry Tilley
+## [Terry Tilley](http://terrytilley.com/)
 
 [About](#about) | [Skills](#skills) | [Projects](#projects) |
 [Experience](#experience) | [Education](#education)
+
+**Social Media**: [Twitter](https://twitter.com/terrytilley8) | [LinkedIn](https://www.linkedin.com/in/terrytilley/)
 
 *I like to build stuff and make things look awesome!*
 
@@ -11,7 +13,7 @@ A few years ago I decided to take it more seriously and started doing freelance 
 
 It wasn't very long until I realised that this is what I wanted to do as a career. I fast tracked my ambitions to code by attending [Makers Academy](http://www.makersacademy.com/) an intensive 12 week coding bootcamp in London.
 
-I'm currently looking for a full stack junior developer role in a team who are always looking to learn new technologies.
+I'm currently looking for a junior front end developer role in a team who are always looking to learn new technologies.
 
 ## Skills
 
@@ -36,6 +38,7 @@ Through out my time at Makers Academy I was constantly learning different langua
 #### Websites
 | Website | Link |
 |------------------------|------------------------|------------------------|
+| Granby Hotel | [Visit Website](http://hotelingravesend.com/) |
 | Island Tribe Asia | [Visit Website](http://islandtribeasia.com/) |
 | Benson & Company | [Visit Website](http://bensoncompany.co.uk/) |
 | Sanrock Capital | [Visit Website](http://sanrockcapital.co.uk/) |
@@ -45,7 +48,7 @@ Through out my time at Makers Academy I was constantly learning different langua
 
 #### Makers Academy (July 2016 to September 2016)
 
-- Curiosity and hungry passion for code
+- Curiosity and a hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
@@ -57,6 +60,13 @@ Through out my time at Makers Academy I was constantly learning different langua
 - IT Practitioners BTEC
 
 ## Experience
+
+**Freelance** (2016 to present)
+*Frontend Developer*
+
+- Convert website designs into HTML & CSS
+- WordPress theme development
+- Landing pages connected to MailChimp API
 
 **Benson & Company** (2014 to 2016)
 *IT Manager / Frontend Developer*
