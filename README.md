@@ -1,4 +1,4 @@
-## [Terry Tilley](http://terrytilley.com/)
+## [Terry Tilley](http://terrytilley.com/) 🎨
 
 [About](#about) | [Skills](#skills) | [Projects](#projects) |
 [Experience](#experience) | [Education](#education)
@@ -26,7 +26,7 @@ While working at my previous job ([Benson & Company](http://www.bensoncompany.co
 #### Self Learning
 Through out my time at Makers Academy I was constantly learning different languages in a very short time frame. During our final project which we had 2 weeks to complete our project, I managed to learn React Native in the first week and built the app in the second week.
 
-## Projects
+## Projects 
 
 #### Makers Academy
 | Project | Summary | Technologies |
@@ -35,16 +35,14 @@ Through out my time at Makers Academy I was constantly learning different langua
 | [Codey Gonzalez](https://github.com/terrytilley/codey-gonzalez) | A typing trainer for developers | Rails, JavaScript, PostgreSQL |
 | [CrashPad](https://github.com/terrytilley/crashpad) | An Airbnb clone web app | Express JS, Sequelize |
 
-#### Websites
-| Website | Link |
-|------------------------|------------------------|------------------------|
-| Granby Hotel | [Visit Website](http://hotelingravesend.com/) |
-| Island Tribe Asia | [Visit Website](http://islandtribeasia.com/) |
-| Benson & Company | [Visit Website](http://bensoncompany.co.uk/) |
-| Sanrock Capital | [Visit Website](http://sanrockcapital.co.uk/) |
-| Don't Flop | [Visit Website](http://dontflop.com/) |
+#### Websites 🔗
+- [Granby Hotel](http://hotelingravesend.com/)
+- [Don't Flop](http://dontflop.com/)
+- [Benson & Company](http://bensoncompany.co.uk/)
+- [Sanrock Capital](http://sanrockcapital.co.uk/)
+- [Island Tribe Asia](http://islandtribeasia.com/)
 
-## Education
+## Education 🎓
 
 #### Makers Academy (July 2016 to September 2016)
 
@@ -59,9 +57,16 @@ Through out my time at Makers Academy I was constantly learning different langua
 
 - IT Practitioners BTEC
 
-## Experience
+## Experience 💼
 
-**Freelance** (2016 to present)
+**Finimize** (March 2017 to present)
+*Frontend Developer Intern*
+
+- Creating and testing React components
+- Redesigning and creating new web pages
+- Fixing bugs 🐞
+
+**Freelance** (2016 to 2017)
 *Frontend Developer*
 
 - Convert website designs into HTML & CSS
