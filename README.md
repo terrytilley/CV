@@ -1,9 +1,9 @@
-## [Terry Tilley](http://terrytilley.com/) 🎨
+## [Terry Tilley](http://terrytilley.com/) 🎨 💻
 
 [About](#about) | [Skills](#skills) | [Projects](#projects) |
 [Experience](#experience) | [Education](#education)
 
-**Social Media**: [Twitter](https://twitter.com/terrytilley8) | [LinkedIn](https://www.linkedin.com/in/terrytilley/)
+**Social Media**: [Twitter](https://twitter.com/terrytilley8) | [LinkedIn](https://www.linkedin.com/in/terrytilley/) | [Product Hunt](https://www.producthunt.com/@terrytilley8)
 
 *I like to build stuff and make things look awesome!*
 
@@ -15,7 +15,7 @@ It wasn't very long until I realised that this is what I wanted to do as a caree
 
 I'm currently looking for a junior front end developer role in a team who are always looking to learn new technologies.
 
-## Skills
+## Skills 🤹‍
 
 #### Teamwork
 I took part in a lot of pair programming sessions at Makers Academy, I would pair with someone different every day and this required me to able to adapt to different personalities very quickly. During my final project I was in a team of four, pair programming helped us get the front and back end built at the same time with minimal issues.
@@ -26,7 +26,7 @@ While working at my previous job ([Benson & Company](http://www.bensoncompany.co
 #### Self Learning
 Through out my time at Makers Academy I was constantly learning different languages in a very short time frame. During our final project which we had 2 weeks to complete our project, I managed to learn React Native in the first week and built the app in the second week.
 
-## Projects 
+## Projects 📝
 
 #### Makers Academy
 | Project | Summary | Technologies |
@@ -60,21 +60,22 @@ Through out my time at Makers Academy I was constantly learning different langua
 ## Experience 💼
 
 **Finimize** (March 2017 to present)
-*Frontend Developer Intern*
+*Front End Developer Internship*
 
 - Creating and testing React components
 - Redesigning and creating new web pages
-- Fixing bugs 🐞
+- Developing email templates
+- Squashing bugs 🐞
 
 **Freelance** (2016 to 2017)
-*Frontend Developer*
+*Front End Developer*
 
 - Convert website designs into HTML & CSS
 - WordPress theme development
 - Landing pages connected to MailChimp API
 
 **Benson & Company** (2014 to 2016)
-*IT Manager / Frontend Developer*
+*Front End Developer*
 
 - Design and build any new websites.
 - Ensure all company websites where up to date and running efficiently.
