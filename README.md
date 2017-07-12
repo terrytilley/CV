@@ -13,7 +13,7 @@ A few years ago I decided to take it more seriously and started doing freelance 
 
 It wasn't very long until I realised that this is what I wanted to do as a career. I fast tracked my ambitions to code by attending [Makers Academy](http://www.makersacademy.com/) an intensive 12 week coding bootcamp in London.
 
-I'm currently looking for a junior front end developer role in a team who are always looking to learn new technologies.
+I am currently a front end developer intern [Finimize](http://www.finimize.com), where I have been working with React.js to build a fintech product for millennials to take control of their finances.
 
 ## Skills 🤹
 
@@ -21,7 +21,7 @@ I'm currently looking for a junior front end developer role in a team who are al
 I took part in a lot of pair programming sessions at Makers Academy, I would pair with someone different every day and this required me to able to adapt to different personalities very quickly. During my final project I was in a team of four, pair programming helped us get the front and back end built at the same time with minimal issues.
 
 #### Design
-While working at my previous job ([Benson & Company](http://www.bensoncompany.co.uk)) I was tasked with creating landing pages for the company services based on the company branding, such as [Full Access](http://full-access.co.uk/) and [Management Courses](http://www.managementcourseslondon.com/).
+While working at my previous job ([Benson & Company](http://www.bensoncompany.co.uk)) I was tasked with creating landing pages for the company services based on the company branding, such as [Full Access](http://full-access.co.uk/) and [Management Courses](http://www.managementcourseslondon.com/). I used various software to create designs for these pages such as Photoshop and Sketch.
 
 #### Self Learning
 Through out my time at Makers Academy I was constantly learning different languages in a very short time frame. During our final project which we had 2 weeks to complete our project, I managed to learn React Native in the first week and built the app in the second week.
@@ -35,7 +35,7 @@ Through out my time at Makers Academy I was constantly learning different langua
 | [Codey Gonzalez](https://github.com/terrytilley/codey-gonzalez) | A typing trainer for developers | Rails, JavaScript, PostgreSQL |
 | [CrashPad](https://github.com/terrytilley/crashpad) | An Airbnb clone web app | Express JS, Sequelize |
 
-#### Websites 🔗
+#### Websites I've Built 🔗
 - [Granby Hotel](http://hotelingravesend.com/)
 - [Don't Flop](http://dontflop.com/)
 - [Benson & Company](http://bensoncompany.co.uk/)
