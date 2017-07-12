@@ -13,7 +13,7 @@ A few years ago I decided to take it more seriously and started doing freelance 
 
 It wasn't very long until I realised that this is what I wanted to do as a career. I fast tracked my ambitions to code by attending [Makers Academy](http://www.makersacademy.com/) an intensive 12 week coding bootcamp in London.
 
-I am currently a front end developer intern [Finimize](http://www.finimize.com), where I have been working with React.js to build a fintech product for millennials to take control of their finances.
+I am currently a front end developer intern at [Finimize](http://www.finimize.com), where I have been working with React.js to build a fintech product for millennials to take control of their finances.
 
 ## Skills 🤹
 
