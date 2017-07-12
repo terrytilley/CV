@@ -15,7 +15,7 @@ It wasn't very long until I realised that this is what I wanted to do as a caree
 
 I'm currently looking for a junior front end developer role in a team who are always looking to learn new technologies.
 
-## Skills 🤹‍
+## Skills
 
 #### Teamwork
 I took part in a lot of pair programming sessions at Makers Academy, I would pair with someone different every day and this required me to able to adapt to different personalities very quickly. During my final project I was in a team of four, pair programming helped us get the front and back end built at the same time with minimal issues.
