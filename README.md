@@ -3,7 +3,7 @@
 [About](#about-) | [Skills](#skills-) | [Projects](#projects-) |
 [Experience](#experience-) | [Education](#education-)
 
-**Social Media**: [Twitter](https://twitter.com/terrytilley8) | [LinkedIn](https://www.linkedin.com/in/terrytilley/) | [Product Hunt](https://www.producthunt.com/@terrytilley8)
+**Social Media**: [Twitter](https://twitter.com/terrytilley8) | [LinkedIn](https://www.linkedin.com/in/terrytilley/)
 
 I have always dabbled with web design as a hobby. It all started when I was 14, I built an internet radio station website so that my friends and I could broadcast our "DJ'in skills" to our school friends.
 
@@ -35,12 +35,6 @@ Through out my time at Makers Academy I was constantly learning different langua
 | [Codey Gonzalez](https://github.com/terrytilley/codey-gonzalez)  | A typing trainer for developers                       | Rails, JavaScript, PostgreSQL |
 | [CrashPad](https://github.com/terrytilley/crashpad)              | An Airbnb clone web app                               | Express JS, Sequelize         |
 
-#### Websites I've Built 🔗
-
-- [Granby Hotel](http://hotelingravesend.com/)
-- [Benson & Company](http://bensoncompany.co.uk/)
-- [Island Tribe Asia](http://islandtribeasia.com/)
-
 ## Education 🎓
 
 #### Makers Academy (July 2016 to September 2016)
@@ -58,14 +52,28 @@ Through out my time at Makers Academy I was constantly learning different langua
 
 ## Experience 💼
 
-**Mettrr** (August 2017 to present)
+**LineTen** (March 2021 to present)
+_Senior Front End Developer_
+
+- Built dashboards with Nuxt.js
+- Built typescript component library
+- Migrated to Vue composition api
+- Setup starter project with Docker
+
+**Croud** (August 2019 to February 2021)
+_Front End Developer_
+
+- Built dashboards with Nuxt.js
+- Built custom chart components
+- Migrated components from JavaScript to TypeScript
+
+**Mettrr** (August 2017 to July 2019)
 _Front End Developer_
 
 - Built custom static site generator
 - Creating website templates
 - AWS Lambda functions
 - Built dashboards in Vue.js
-- Squashing bugs 🐞
 
 **Finimize** (March 2017 to July 2017)
 _Front End Developer Internship_
@@ -73,7 +81,6 @@ _Front End Developer Internship_
 - Creating and testing React components
 - Redesigning and creating new web pages
 - Developing email templates
-- Squashing bugs 🐞
 
 **Freelance** (2016 to 2017)
 _Front End Developer_
