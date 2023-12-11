@@ -1,9 +1,9 @@
-## [Terry Tilley](http://terrytilley.com/) 🎨 💻
+## [Terry Tilley](https://terrytilley.com/) 🎨 💻
 
 [About](#about-) | [Skills](#skills-) | [Projects](#projects-) |
 [Experience](#experience-) | [Education](#education-)
 
-**Social Media**: [Twitter](https://twitter.com/terrytilley8) | [LinkedIn](https://www.linkedin.com/in/terrytilley/)
+**Social Media**: [GitHub](https://www.linkedin.com/in/terrytilley/) | [LinkedIn](https://www.linkedin.com/in/terrytilley/)
 
 I have always dabbled with web design as a hobby. It all started when I was 14, I built an internet radio station website so that my friends and I could broadcast our "DJ'in skills" to our school friends.
 
@@ -52,7 +52,15 @@ Through out my time at Makers Academy I was constantly learning different langua
 
 ## Experience 💼
 
-**LineTen** (March 2021 to present)
+**Hectare** (August 2022 to November 2023)
+_Senior Front End Developer_
+
+- Built dashboards with Nuxt.js
+- Migrated to Vue composition api
+- Vue component testing
+- Converted JavaScript files into TypeScript files
+
+**LineTen** (March 2021 to August 2022)
 _Senior Front End Developer_
 
 - Built dashboards with Nuxt.js
