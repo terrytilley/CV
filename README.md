@@ -55,6 +55,8 @@ Through out my time at Makers Academy I was constantly learning different langua
 **Hectare** (August 2022 to November 2023)
 _Senior Front End Developer_
 
+Development of a marketplace and inventory web application for the farming industry using TypeScript and Nuxt.js.
+
 - Built dashboards with Nuxt.js
 - Migrated to Vue composition api
 - Vue component testing
@@ -62,6 +64,8 @@ _Senior Front End Developer_
 
 **LineTen** (March 2021 to August 2022)
 _Senior Front End Developer_
+
+Building a UI component library using TypeScript and Vue.js for varies dashboards to manage drivers and deliveries.
 
 - Built dashboards with Nuxt.js
 - Built typescript component library
@@ -71,12 +75,16 @@ _Senior Front End Developer_
 **Croud** (August 2019 to February 2021)
 _Front End Developer_
 
+Planning and development of multiple MVP dashboards to manage in-house marketing tasks.
+
 - Built dashboards with Nuxt.js
 - Built custom chart components
 - Migrated components from JavaScript to TypeScript
 
 **Mettrr** (August 2017 to July 2019)
 _Front End Developer_
+
+Built a static site generator using JavaScript to build unique customer websites based on a JSON configuration.
 
 - Built custom static site generator
 - Creating website templates
@@ -85,6 +93,8 @@ _Front End Developer_
 
 **Finimize** (March 2017 to July 2017)
 _Front End Developer Internship_
+
+Development of a finanical news web application components using JavaScript and React.js.
 
 - Creating and testing React components
 - Redesigning and creating new web pages
