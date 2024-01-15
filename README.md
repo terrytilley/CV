@@ -1,15 +1,10 @@
 ## [Terry Tilley](https://terrytilley.com/) 🎨 💻
 
-[About](#about-) | [Skills](#skills-) | [Projects](#projects-) |
-[Experience](#experience-) | [Education](#education-)
-
 **Social Media**: [GitHub](https://www.linkedin.com/in/terrytilley/) | [LinkedIn](https://www.linkedin.com/in/terrytilley/)
 
-I have always dabbled with web design as a hobby. It all started when I was 14, I built an internet radio station website so that my friends and I could broadcast our "DJ'in skills" to our school friends.
+A passionate developer with over 8 years' experience in front end development with extensive knowledge of JavaScript/TypeScript using frameworks such as Vue.js and React.js. Skilled at write clean and concise code that is easy to maintain.
 
-A few years ago I decided to take it more seriously and started doing freelance work for a media company where I would convert Photoshop designs into WordPress websites using HTML, CSS/SASS and frameworks such as Bootstrap.
-
-It wasn't very long until I realised that this is what I wanted to do as a career. I fast tracked my ambitions to code by attending [Makers Academy](http://www.makersacademy.com/) an intensive 12 week coding bootcamp in London.
+Currently I am working on a personal project to index and categories rap battles. It's a full stack application using the Next.js framework with social login. I have built out the admin section for a user to manage artists, leagues and battles hosted on YouTube. The data is then presented to logged out user and made searchable using Algolia search.
 
 ## Skills 🤹
 
