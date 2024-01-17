@@ -50,50 +50,53 @@ Through out my time at Makers Academy I was constantly learning different langua
 **Hectare** (August 2022 to November 2023)
 _Senior Front End Developer_
 
-Development of a marketplace and inventory web application for the farming industry using TypeScript and Nuxt.js.
+Development of a marketplace and inventory web application for the farming industry using the Nuxt.js framework for the offline capabilities when entering data out in the field.
 
-- Built dashboards with Nuxt.js
-- Migrated to Vue composition api
-- Vue component testing
-- Converted JavaScript files into TypeScript files
+- Working with the design team and planning out features
+- Building reuseable interactive UI components
+- Upgrading components from Vue options api to Vue composition api
+- Vue component testing with Jest and Cypress for higher test coverage
+- Migrating the codebase from JavaScript to TypeScript for maintainability
 
 **LineTen** (March 2021 to August 2022)
 _Senior Front End Developer_
 
-Building a UI component library using TypeScript and Vue.js for varies dashboards to manage drivers and deliveries.
+Building out dashboards to manage and track drivers and deliveries in real time using Vue.js.
 
-- Built dashboards with Nuxt.js
-- Built typescript component library
-- Migrated to Vue composition api
-- Setup starter project with Docker
+- Mentoring and pair programming with junior developers
+- Upgrading components from Vue options api to Vue composition api
+- Development of a component library for brand consistency across all web applications
+- Developed a starter repo for frontend and backend code with easy deployment using Docker
 
 **Croud** (August 2019 to February 2021)
 _Front End Developer_
 
-Planning and development of multiple MVP dashboards to manage in-house marketing tasks.
+Planning and development of green field projects to manage outsourced marketing tasks and provide website analysis and feedback.
 
-- Built dashboards with Nuxt.js
-- Built custom chart components
-- Migrated components from JavaScript to TypeScript
+- Development of multiple dashboards with the Nuxt.js framework with server side rendered pages
+- Building custom chart components using Chart.js to display additional data
+- Upgrading the codebase with TypeScript for easier debugging
 
 **Mettrr** (August 2017 to July 2019)
 _Front End Developer_
 
-Built a static site generator using JavaScript to build unique customer websites based on a JSON configuration.
+Development of small business websites using a independently-hosted static site generator and a JSON configuration with hundreds of pre built HTML templates.
 
-- Built custom static site generator
-- Creating website templates
-- AWS Lambda functions
-- Built dashboards in Vue.js
+- Developement of a custom static site generator built using JavaScript
+- Managing AWS lambda function which host the static site generator code and only runs when generating a website
+- Converting website template designs into HTML and CSS
+- Development of a Vue.js promotional website and dashboard
 
 **Finimize** (March 2017 to July 2017)
 _Front End Developer Internship_
 
 Development of a finanical news web application components using JavaScript and React.js.
 
-- Creating and testing React components
+- Development of simple React.js components
+- Component unit testing using Jest
 - Redesigning and creating new web pages
-- Developing email templates
+- Converting website design into a WordPress theme
+- Managing and creating email marketing templates using Mailchimp
 
 **Freelance** (2016 to 2017)
 _Front End Developer_
