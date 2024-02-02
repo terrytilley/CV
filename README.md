@@ -6,30 +6,6 @@ A passionate developer with over 8 years' experience in front end development wi
 
 Currently I am working on a personal project to index and categories rap battles. It's a full stack application using the Next.js framework with social login. I have built out the admin section for a user to manage artists, leagues and battles hosted on YouTube. The data is then presented to logged out user and made searchable using Algolia search.
 
-## Skills 🤹
-
-#### Teamwork
-
-I took part in a lot of pair programming sessions at Makers Academy, I would pair with someone different every day and this required me to able to adapt to different personalities very quickly. During my final project I was in a team of four, pair programming helped us get the front and back end built at the same time with minimal issues.
-
-#### Innovation
-
-While working at [Mettrr](https://www.mettrr.com) I was tasked with creating website templates using the static site generator Hugo. This proved to not be scalable and very time consuming when generating all websites. In my spare time I developed a custom static site generator that would generate a website from a JSON file and is hosted on a AWS Lambda function coupled with an API gateway.
-
-#### Self Learning
-
-Through out my time at Makers Academy I was constantly learning different languages in a very short time frame. During our final project which we had 2 weeks to complete our project, I managed to learn React Native in the first week and built the app in the second week.
-
-## Projects 📝
-
-#### Makers Academy
-
-| Project                                                          | Summary                                               | Technologies                  |
-| ---------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------- |
-| [Challenge Accepted](https://github.com/challenge-accepted-team) | A social betting app to challenge other users/friends | Ruby on Rails, React Native   |
-| [Codey Gonzalez](https://github.com/terrytilley/codey-gonzalez)  | A typing trainer for developers                       | Rails, JavaScript, PostgreSQL |
-| [CrashPad](https://github.com/terrytilley/crashpad)              | An Airbnb clone web app                               | Express JS, Sequelize         |
-
 ## Education 🎓
 
 #### Makers Academy (July 2016 to September 2016)
