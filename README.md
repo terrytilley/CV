@@ -23,6 +23,15 @@ Currently I am working on a personal project to index and categories rap battles
 
 ## Experience 💼
 
+**Freelance** (November 2023 to Present)
+_Front End Developer_
+
+Working with various clients to build and maintain their web apps using React.js and Vue.js. I focus on creating responsive, dynamic user interfaces and making sure everything runs smoothly.
+
+- Figma designs to React/Vue apps
+- General bug fixes and code refactoring
+- Implementing features such as language translation
+
 **Hectare** (August 2022 to November 2023)
 _Senior Front End Developer_
 
